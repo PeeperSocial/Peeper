@@ -1,0 +1,17 @@
+- DB serv using Flf Serv
+- Invite-only
+- Branding
+- Page: Humorgute
+- Hashtags, trending
+- Dislike btn
+- Bootstrap theme
+- Profile Backgrounds
+- Themes user can choose
+- orkoins
+- Trnsltns
+- O-X
+- Gifts (NFTs)
+- Games, and social APIs welcoming GameFi
+
+- Brgh
+- Wallet
