@@ -1,3 +1,0 @@
-Texty
-- Fakenews fact checks in posts (integration with fact checker sites and tokenized mods)
-- trnstn % avatar ?
