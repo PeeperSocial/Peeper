@@ -1,0 +1,7 @@
+"Don't you think you would make sense if Instagram comments worked like Twitter and its threaded responses?
+
+A framework where every Internet comment is a post on its on, and can have threaded responses that also work as individual posts."
+
+That's an interesting idea! It would certainly make conversations on Instagram more organized and easier to follow. Twitter's threaded response system has been successful in that regard. However, implementing such a system on Instagram may not be as straightforward, as it would require significant changes to the platform's current commenting system.
+
+Additionally, Instagram's focus on visual content may make it more challenging to implement threaded responses without compromising the user experience. Nonetheless, it's always good to explore new ideas and see how they can be applied to improve existing systems.
