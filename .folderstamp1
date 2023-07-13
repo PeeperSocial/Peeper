@@ -1,0 +1,122 @@
+This folder: /usr/bin
+
+  File: ./Firstboot tour.txt
+  Size: 89        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,4	Inode: 969619      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-14 22:24:33.326979200 -0300
+Modify: 2023-04-14 22:24:33.328114100 -0300
+Change: 2023-04-14 22:24:34.621957200 -0300
+ Birth: -
+IPFS hash: QmXTh2svtPWjuESHtEjmn5eFwYpWBd9EeSGoGh3eTmyhU7
+------------------------------
+  File: ./FoldersUnite
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 1326344     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:50.635633500 -0300
+Modify: 2023-03-25 12:11:20.243699900 -0300
+Change: 2023-03-25 12:11:20.243699900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./&meta
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 1436695     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:50.591634300 -0300
+Modify: 2023-03-30 13:25:50.173297400 -0300
+Change: 2023-03-30 13:25:50.173297400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Offline-Peeper-poster
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 970827      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:51.547190200 -0300
+Modify: 2023-03-25 12:09:53.313680600 -0300
+Change: 2023-03-25 12:09:53.313680600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./old
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 1166073     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:51.854829000 -0300
+Modify: 2022-11-22 13:41:03.804110900 -0300
+Change: 2022-11-22 13:41:03.804110900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Peeper -> /media/daniella/B/git/Floflis/HTML5/Z draft/use/Peeper
+  Size: 54        	Blocks: 1          IO Block: 4096   symbolic link
+Device: 8,4	Inode: 971849      Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-12 08:43:39.895503200 -0300
+Modify: 2023-04-12 08:43:39.895503200 -0300
+Change: 2023-04-12 08:43:39.895503200 -0300
+ Birth: -
+IPFS hash: QmZgXMq3sLqoSqgwZDV8QA9aTzDQQcNMnKi2gPv7uovBa3
+------------------------------
+  File: ./peeper.plasmmer.com
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 4146045     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:52.760969500 -0300
+Modify: 2022-02-17 11:48:07.612816000 -0300
+Change: 2023-03-25 17:09:35.274350200 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Peepeth-Leeroy repro
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 4146304     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:09:35.294799800 -0300
+Modify: 2023-03-25 16:08:26.713119900 -0300
+Change: 2023-03-25 17:09:35.288901900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Phpfox
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 1248084     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 15:49:56.264901000 -0300
+Modify: 2023-03-25 12:43:44.734153400 -0300
+Change: 2023-03-25 12:43:44.734153400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Plasmmer Accounts -> /media/daniella/B/git/Plasmmer/Accounts
+  Size: 39        	Blocks: 1          IO Block: 4096   symbolic link
+Device: 8,4	Inode: 1402832     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-31 23:28:24.628976300 -0300
+Modify: 2023-03-31 23:28:24.628976300 -0300
+Change: 2023-03-31 23:28:24.628976300 -0300
+ Birth: -
+IPFS hash: QmZiyi1wunpbnFVH4PMmNrMUtRttCuHA1xMTbe9iWVnz7h
+------------------------------
+  File: ./SocialAggregator
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 1404112     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-30 14:06:37.578044500 -0300
+Modify: 2023-03-30 14:06:37.543958900 -0300
+Change: 2023-03-30 14:06:37.543958900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Social-Orgut-Plasmmer Accounts
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 4146737     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:43:23.039283300 -0300
+Modify: 2023-01-06 14:31:32.477045500 -0300
+Change: 2023-03-25 17:43:22.942299100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

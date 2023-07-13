@@ -1,0 +1,62 @@
+This folder: /usr/bin
+
+  File: ./Firstboot tour.txt
+  Size: 89        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,4	Inode: 969619      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-14 22:24:45.657450600 -0300
+Modify: 2023-04-14 22:24:33.328114100 -0300
+Change: 2023-04-14 22:24:48.817742200 -0300
+ Birth: -
+IPFS hash: QmXTh2svtPWjuESHtEjmn5eFwYpWBd9EeSGoGh3eTmyhU7
+------------------------------
+  File: ./Papers
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 1438225     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:50.488108500 -0300
+Modify: 2022-12-10 15:14:19.989383500 -0300
+Change: 2022-12-10 15:14:19.989383500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Private
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 1436696     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:50.503107800 -0300
+Modify: 2022-11-24 22:31:55.670747800 -0300
+Change: 2022-11-24 22:31:55.670747800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./SocialNetworks
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 1454928     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-11 12:13:50.603644700 -0300
+Modify: 2023-03-23 19:51:07.609090600 -0300
+Change: 2023-03-23 19:51:07.609090600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Sociflow_Peeper_Orgute
+  Size: 293906    	Blocks: 576        IO Block: 4096   regular file
+Device: 8,4	Inode: 4143800     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-24 17:14:53.643612400 -0300
+Modify: 2023-03-23 17:48:52.000000000 -0300
+Change: 2023-03-24 12:11:54.846298700 -0300
+ Birth: -
+IPFS hash: QmXJeyPwiJbUzzUgBsKSYBVxysvSBX4oFq6AJsLaXS6z5s
+------------------------------
+  File: ./Tasks.txt
+  Size: 394       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,4	Inode: 1403977     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-30 13:25:53.386157900 -0300
+Modify: 2023-03-30 13:25:49.855418800 -0300
+Change: 2023-03-30 13:25:50.173244300 -0300
+ Birth: -
+IPFS hash: QmQsFjnqfkK8owtsHovcDaJgmXUrcq3QMXDVmtYaEeqZAx
+------------------------------
