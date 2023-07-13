@@ -1,0 +1,42 @@
+This folder: /media/daniella/B/git/Sociflow/0Sociflow/&meta/HumaneBook
+
+  File: ./HumaneBook
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4162612     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-30 15:46:11.311802700 -0300
+Modify: 2022-03-23 11:21:03.382157800 -0300
+Change: 2023-03-25 17:43:22.736153100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./HumaneBook.jpg
+  Size: 733563    	Blocks: 1440       IO Block: 4096   regular file
+Device: 8,20	Inode: 4162616     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-08 19:23:05.329925800 -0300
+Modify: 2019-08-27 20:29:52.000000000 -0300
+Change: 2023-07-13 19:16:42.205526900 -0300
+ Birth: -
+IPFS hash: QmUfcmNGTitmGqvq1XKS5GnpdUWSrGWU991sdi8Az9X2xW
+------------------------------
+  File: ./Insp
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4162617     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-30 15:46:11.311802700 -0300
+Modify: 2022-03-23 11:17:41.631987700 -0300
+Change: 2023-03-25 17:43:22.829462500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Peepz
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4146740     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-30 15:46:11.311802700 -0300
+Modify: 2022-03-23 11:16:16.641693600 -0300
+Change: 2023-03-25 17:43:22.607700800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

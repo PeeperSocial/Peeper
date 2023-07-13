@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Sociflow/0Sociflow/&meta/SocialNetworks/Peepz/Peepeth/Peepeth
+
+  File: ./1. peepin
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4146742     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-30 15:46:11.359084200 -0300
+Modify: 2020-12-11 06:14:24.064049000 -0300
+Change: 2023-03-25 17:43:14.732123000 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./3. peepfeed
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4162126     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:45:48.202536800 -0300
+Modify: 2020-12-11 06:14:41.750002000 -0300
+Change: 2023-03-25 17:43:19.395671900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./4. peepeth-subgraph
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4162361     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:45:48.303985600 -0300
+Modify: 2020-12-11 06:14:55.133472000 -0300
+Change: 2023-03-25 17:43:22.421900400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./peepeth-badges
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4162039     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:45:48.163041800 -0300
+Modify: 2020-12-11 06:14:28.226008000 -0300
+Change: 2023-03-25 17:43:15.715456500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./z. insp
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4162357     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:45:48.301762500 -0300
+Modify: 2020-12-11 06:14:42.483818000 -0300
+Change: 2023-03-25 17:43:19.552304400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./z. other
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4162609     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 17:45:48.394115300 -0300
+Modify: 2019-11-25 15:33:35.982149000 -0300
+Change: 2023-03-25 17:43:22.427453200 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
