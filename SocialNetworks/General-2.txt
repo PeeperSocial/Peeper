@@ -1,0 +1,4 @@
+detect screenshots that contain photos/names and suggest to cover sensitive data
+
+both Peepz/Texty and Peeper Poster should support the Threads API:
+https://developers.facebook.com/community/threads/1277329089818470/

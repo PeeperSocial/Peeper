@@ -1,5 +1,15 @@
 at the top of navigation: show Stories, then Shortube video slider
 
+Peeper/Texty:
+- unlimited RPs (RTs) in the same peep
+- Profile tab: threads
+-
+- Sociflow: Following vs. Followers ratio
+- Tell abt another type of ratio: when an answer have more likes than the root post
+- quote up to 4 peeps in the same peep
+-
+- INSP inspector for Sociflow and other products: https://twitter.com/brunavvaz/status/1654637254491402242?t=0VztwbYS_-6hwgjDObfIrQ&s=19 (obviously will deserve tokens)
+
 Texty
 - Fakenews fact checks in posts (integration with fact checker sites and tokenized mods)
 - trnstn % avatar ?
@@ -16,4 +26,6 @@ attach photos, gifs, videos and audio in the same peep
 
 Peeper Purple benefits:
 - Put up to 8 media in a peep (more than 4)
-- 
+- Use high-value NFT avatar rather than the cheap ones (same for Floflis PRO)
+
+- see trending on Peeper, go to Poodle to see the news

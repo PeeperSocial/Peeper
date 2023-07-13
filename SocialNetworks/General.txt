@@ -1,0 +1,1 @@
+detect screenshots that contain photos/names and suggest to cover sensitive data

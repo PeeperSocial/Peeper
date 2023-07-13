@@ -1,0 +1,41 @@
+rename Peeper to Peep.(something)
+-
+Texty quickstart from GPT:
+- ask abt tts security and architecture
+- reactjs, nodejs, mysql
+- a safe admin panel, invite-only
+- posts (300 char limit) supporting 4 media (img/video/gif/music), poll, location
+- posts: reactions, comments, repost, bookmark, delete (but db will keep copy)
+- bookmarks: support folders
+
+at the top of navigation: show Stories, then Shortube video slider
+
+Peeper/Texty:
+- unlimited RPs (RTs) in the same peep
+- Profile tab: threads
+-
+- Sociflow: Following vs. Followers ratio
+- Tell abt another type of ratio: when an answer have more likes than the root post
+- quote up to 4 peeps in the same peep
+-
+- INSP inspector for Sociflow and other products: https://twitter.com/brunavvaz/status/1654637254491402242?t=0VztwbYS_-6hwgjDObfIrQ&s=19 (obviously will deserve tokens)
+
+Texty
+- Fakenews fact checks in posts (integration with fact checker sites and tokenized mods)
+- trnstn % avatar ?
+
+Beforehand: Peeper will later be renamed to Texty
+Peeps will have hidden hashtags instead of having having them mixed
+-
+Texty+NeTVision
+🗨🏞🎞🎵
+Also, threads will have Points (marks about points/parts, just as Communicator)
+have to rename "Points" in a way it don't get confused with tokens
+
+attach photos, gifs, videos and audio in the same peep
+
+Peeper Purple benefits:
+- Put up to 8 media in a peep (more than 4)
+- Use high-value NFT avatar rather than the cheap ones (same for Floflis PRO)
+
+- see trending on Peeper, go to Poodle to see the news
