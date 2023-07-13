@@ -13,5 +13,5 @@
 
 10. Frienzy
 
-11. Sociflow integration with Z and Lens
+11. Sociflow integration with Z, Lens and 3Box
 12. Sociflow integration with Mastodon
