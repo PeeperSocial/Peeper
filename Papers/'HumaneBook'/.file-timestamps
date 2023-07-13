@@ -1,0 +1,29 @@
+  File: ./.file-timestamps
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 824h/2084d	Inode: 4057588     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-23 11:17:44.727407500 -0300
+Modify: 2022-03-23 11:17:44.727407500 -0300
+Change: 2022-03-23 11:17:44.727407500 -0300
+ Birth: -  File: ./HumaneBook 1.jpg
+  Size: 140230    	Blocks: 280        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1418326     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-23 11:17:40.347876300 -0300
+Modify: 2019-09-05 23:56:44.000000000 -0300
+Change: 2020-12-11 06:14:55.385404400 -0300
+ Birth: -  File: ./HumaneBook 2.jpg
+  Size: 208758    	Blocks: 408        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1418325     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-23 11:17:40.262856200 -0300
+Modify: 2019-09-05 23:57:24.000000000 -0300
+Change: 2020-12-11 06:14:55.325143200 -0300
+ Birth: -  File: ./recursive_files_timestamp.sh
+  Size: 1284      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 4057352     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-23 10:11:52.468881300 -0300
+Modify: 2022-02-21 16:19:46.119392000 -0300
+Change: 2022-03-23 11:17:41.631987700 -0300
+ Birth: -
