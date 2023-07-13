@@ -1,0 +1,17 @@
+1. SongBit Guess w/o Accounts
+
+2. Plasmmer Accounts
+3. Communicator (internal testing between invitees)
+
+4. Peepz Poster (cross-post - Twitter, Facebook, Instagram, Threads - and offline drafts)
+5. Peepz Desktop (import from Twitter, Facebook/Instagram/Threads, Peepeth, Leeroy, Lens, OmniNotes; display profile with all posts but warn they weren't uploaded/synced yet; then introduce Plasmmer Accounts authentication for syncing)
+6. Peepz Mobile
+7. Peepz Web
+
+8. Orgut (if a post is 500 char or less then will go to Peepz SQL table)
+9. Guttye (fork of Orgut as blogging for teenagers, use same Orkoins)
+
+10. Frienzy
+
+11. Sociflow integration with Z and Lens
+12. Sociflow integration with Mastodon
